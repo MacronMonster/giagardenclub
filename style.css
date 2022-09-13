@@ -21,6 +21,8 @@ h1{
 footer{
     background-color: #b3d684;
     border: 30px solid #7a9c4c;
+    padding:0px;
+    margin:0px; 
 }
 .photos{
     color: #7a9c4c;
