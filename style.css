@@ -48,8 +48,11 @@ footer{
 }
 
 .mySlides img{
-    height: 500;
-    width: 300;
+   height: 500;
+   width: 300;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 /* Next & previous buttons */
