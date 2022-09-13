@@ -50,6 +50,7 @@ footer{
 .mySlides img{
     height: 500;
     width: 300;
+}
 
 /* Next & previous buttons */
 .prev, .next {
