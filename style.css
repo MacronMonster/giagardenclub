@@ -44,7 +44,7 @@ footer{
 .mySlides {
   /*max-width: 30%;*/
   /*max-height: 200px;*/
-  /*display: none;*/
+  display: none;
 }
 
 .mySlides img{
