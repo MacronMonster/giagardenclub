@@ -37,10 +37,6 @@ footer{
 .slideshow-container {
   max-width: 1000px;
   position: relative;
-  margin: auto;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
 }
 
 /* Hide the images by default */
@@ -53,9 +49,6 @@ footer{
 .mySlides img{
    height: 500;
    width: 300;
-   margin-left: auto;
-   margin-right: auto;
-   text-align: center;
 }
 
 /* Next & previous buttons */
