@@ -35,6 +35,10 @@ footer{
     border: 10px;
 }
 
+img{
+    text-align: center;
+}
+
 * {box-sizing:border-box}
 
 /* Slideshow container */
