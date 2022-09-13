@@ -42,10 +42,14 @@ footer{
 
 /* Hide the images by default */
 .mySlides {
-  width: 30%;
-  height: 200px;
+  max-width: 30%;
+  max-height: 200px;
   display: none;
 }
+
+.mySlides img{
+    height: 500;
+    width: 300;
 
 /* Next & previous buttons */
 .prev, .next {
