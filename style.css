@@ -47,11 +47,6 @@ footer{
   display: none;
 }
 
-.mySlides img{
-   width: 50%;
-   height: 50%;
-}
-
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
