@@ -31,6 +31,7 @@ footer{
     margin: 0;
     border: 10px;
 }
+
 * {box-sizing:border-box}
 
 /* Slideshow container */
@@ -41,8 +42,8 @@ footer{
 
 /* Hide the images by default */
 .mySlides {
-  max-width: 30%;
-  max-height: 200px;
+  /*max-width: 30%;*/
+  /*max-height: 200px;*/
   display: none;
 }
 
